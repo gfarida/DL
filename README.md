@@ -1,1 +1,1 @@
-# DL task №1
+# DL tasks
